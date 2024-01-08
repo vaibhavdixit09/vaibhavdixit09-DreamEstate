@@ -3,11 +3,11 @@ import { Link } from "react-router-dom"; // Make sure to adjust this import base
 
 const Footer = () => {
   return (
-    <footer className="bg-slate-100 py-3  border-t-2 border-slate-200">
-      <div className="container mx-auto flex items-center justify-between">
+    <footer className=" bg-slate-100 py-3  border-t-2 border-slate-200">
+      <div className="container text-xs sm:text-base px-4 md:px-0 mx-auto flex items-center justify-between">
         {/* Logo on the left */}
         <div className="flex items-center">
-          <span className="text-xl  text-slate-500  font-bold">
+          <span className="sm:text-base  text-xs text-slate-500  font-bold">
             Dream<span className=" text-slate-700">Estate</span>
           </span>
         </div>
