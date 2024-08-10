@@ -32,7 +32,7 @@ Clone the Repository:
 Clone the repository and navigate to the project directory:
 bash
 Copy code
-git clone https://github.com/yourusername/dream-estate.git
+git clone https://github.com/vaibhavdixit09/vaibhavdixit09-DreamEstate.git
 cd dream-estate
 Backend Setup:
 Navigate to the backend directory:
